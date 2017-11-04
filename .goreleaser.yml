@@ -1,0 +1,7 @@
+build:
+  binary: sexecline
+  goos:
+    - darwin
+    - linux
+  goarch:
+    - amd64
